@@ -9,6 +9,11 @@
 ```javascript
 const = aboutMe = {
   pronouns: "He" | "him",
-  language: [Javascript]
+  language: [Javascript],
+  tools: [
+  "React", "Tailwind",
+  "Bootstrap", "Style",
+  "Components"
+]
 }
 ```
