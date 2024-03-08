@@ -8,7 +8,7 @@
 
 ```javascript
 const = aboutMe = {
-pronouns: "He" | "him",
-
+  pronouns: "He" | "him",
+  language: [Javascript]
 }
 ```
