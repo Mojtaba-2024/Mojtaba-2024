@@ -5,3 +5,9 @@
 </p>
 
 <h2>A little more about me ...</h2>
+
+```javascript
+const = aboutMe = {
+
+}
+```
