@@ -14,6 +14,7 @@ const = aboutMe = {
   React, Tailwind,
   Bootstrap, Style,
   Components, Git
-]
+],
+architectures: ["design system pattern", "clean", "SOLID"],
 }
 ```
