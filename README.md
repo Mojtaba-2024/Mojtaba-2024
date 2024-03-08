@@ -11,9 +11,9 @@ const = aboutMe = {
   pronouns: "He" | "him",
   language: [Javascript],
   tools: [
-  "React", "Tailwind",
-  "Bootstrap", "Style",
-  "Components"
+  React, Tailwind,
+  Bootstrap, Style,
+  Components, Git
 ]
 }
 ```
