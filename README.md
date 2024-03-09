@@ -21,5 +21,8 @@ architectures: ["design system pattern", "clean", "SOLID"],
 
 <h2>About me</h2>
 
-<p>🌍I'm from Iran And I live in Andimeshk city</p>
-<p>✉️ You can contact me at mojtabaahmadzadeh.2024@gmail.com</p>
+🌍I'm from Iran And I live in Andimeshk city
+<br/>
+✉️ You can contact me at mojtabaahmadzadeh.2024@gmail.com
+<br/>
+🧠 I'm learning Advanced React
