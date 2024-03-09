@@ -18,3 +18,5 @@ const = aboutMe = {
 architectures: ["design system pattern", "clean", "SOLID"],
 }
 ```
+
+<h2>About me</h2>
