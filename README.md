@@ -30,3 +30,5 @@ architectures: ["design system pattern", "clean", "SOLID"],
 🤝 I'm open to collaborating on Front-End projects
 
 <h2>I code with</h2>
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
