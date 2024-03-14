@@ -52,4 +52,4 @@ architectures: ["design system pattern", "clean", "SOLID"],
 <img src="https://github-readme-stats.vercel.app/api?username=Mojtaba-2024&show_icons=true&theme=onedark"/>
 
 This **Text** Is Bold
-
+This __Text__ Is Bold
