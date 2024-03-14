@@ -54,5 +54,5 @@ architectures: ["design system pattern", "clean", "SOLID"],
 - This **Text** Is Bold
 - This __Text__ Is Bold
 - This *Text* Is Bold
-
+- This ***Text*** Is Bold
 
