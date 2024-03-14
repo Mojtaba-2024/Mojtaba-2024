@@ -58,7 +58,15 @@ architectures: ["design system pattern", "clean", "SOLID"],
 - This ___Text___ Is Bold
 ----
 
-> I am Mern Stack Developer 
+> I am `Mern Stack` Developer 
+>> I Develop Sabzlearn Backend
 
+-----------------
+
+```
+- const login = () => true
+
++ const login = () => jwtToken
+```
 
 
