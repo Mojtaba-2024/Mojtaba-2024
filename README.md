@@ -63,10 +63,20 @@ architectures: ["design system pattern", "clean", "SOLID"],
 
 -----------------
 
-```
+```diff
 - const login = () => true
 
 + const login = () => jwtToken
 ```
 
-
+<ul>
+  <li>FrontEnd</li>
+  <ul>
+    <li>Js</li>
+    <li>React</li>
+    <li>Vue</li>
+    <li>Ts</li>
+  </ul>
+    <li>BackEnd</li>
+    <li>DevOps</li>
+</ul>
