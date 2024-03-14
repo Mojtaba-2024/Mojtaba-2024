@@ -80,3 +80,23 @@ architectures: ["design system pattern", "clean", "SOLID"],
     <li>BackEnd</li>
     <li>DevOps</li>
 </ul>
+
+1. FrontEnd
+   1. js
+   2. React
+   3. Vue
+   4. Ts
+   5. Npm
+2. BackEnd
+
+-------
+# Tables 
+| FrontEnd | BackEnd | Col 3 |
+| -- | -- | -- |
+| Js | Node js | Row 1 Col 3 |
+| React | Express js | Row 2 Col 3 |
+| Angular | Nest js | Row 3 Col 3 |
+| Ts | Row 3 Col 2 | Row 3 Col 3 |
+
+
+
