@@ -47,7 +47,7 @@ architectures: ["design system pattern", "clean", "SOLID"],
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 <br/>
 
-<h2>My Activity</h2>
+<h3>My Activity</h3>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Mojtaba-2024&show_icons=true&theme=onedark"/>
 
