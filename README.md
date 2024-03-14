@@ -56,4 +56,9 @@ architectures: ["design system pattern", "clean", "SOLID"],
 - This *Text* Is Bold
 - This ***Text*** Is Bold
 - This ___Text___ Is Bold
+----
+
+> I am Mern Stack Developer 
+
+
 
