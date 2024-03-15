@@ -8,8 +8,8 @@ Mern Stack Developer
 Frontend Developer with over 3 Years of professional experience in web designing and UI development using latest web technologies. Highly skilled in wire-framing, designing, and developing creative digital experiences using professional HTML | CSS | JavaScript | Tailwind | Bootstrap | ReactJS | Git | practices and WordPress. 👨‍💻 Turning Visuals into Working Prototypes 👨‍💻
 
 - 🌍  I'm based in Delhi-NCR (India)
-- 🖥️  See my portfolio at [Sabzlearn](http://sabzlearn.ir/)
-- ✉️  You can contact me at [ce01010101it@@gmail.com](mailto:ce01010101it@gmail.com)
+- 🖥️  See my portfolio at [Sabzlearn](http://Mojtaba-2024/)
+- ✉️  You can contact me at [mojtabaahmadzadeh.2024@gmail.com](mailto:mojtabaahmadzadeh.2024@gmail.com)
 - 🧠  I'm learning NextJS
 - 🤝  I'm open to collaborating on React based projects
 - ⚡  Professional Developer Ant Coach In Javascript Based Courses
