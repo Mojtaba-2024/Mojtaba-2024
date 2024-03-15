@@ -19,7 +19,7 @@ architectures: ["design system pattern", "clean", "SOLID"],
 }
 ```
 
-<h2>About me</h2>
+<h2>About me:</h2>
 
 🌍I'm from Iran And I live in Andimeshk city
 <br/>
@@ -29,7 +29,7 @@ architectures: ["design system pattern", "clean", "SOLID"],
 <br/>
 🤝 I'm open to collaborating on Front-End projects
 
-<h2>I code with 🔧</h2>
+<h2>Skils: 🔧</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -39,7 +39,7 @@ architectures: ["design system pattern", "clean", "SOLID"],
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<h2>Connect Me 📞</h2>
+<h2>Connect Me: 📞</h2>
 
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
