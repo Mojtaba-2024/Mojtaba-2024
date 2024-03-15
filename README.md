@@ -1,7 +1,7 @@
 Hi 🙋‍♂️ My name is Mojtaba Ahmadzadeh
 ======
 
-Mern Stack Developer
+FrontEnd Developer
 
 ---
 
