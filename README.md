@@ -1,11 +1,11 @@
-Hi 🙋‍♂️ My name is Mohammad Amin Saeedi Rad
+Hi 🙋‍♂️ My name is Mojtaba Ahmadzadeh
 ======
 
 Mern Stack Developer
 
 ---
 
-Frontend Developer with over 3 Years of professional experience in web designing and UI development using latest web technologies. Highly skilled in wire-framing, designing, and developing creative digital experiences using professional HTML | CSS | JavaScript | jQuery | Bootstrap | ReactJS practices and WordPress. 👨‍💻 Turning Visuals into Working Prototypes 👨‍💻
+Frontend Developer with over 3 Years of professional experience in web designing and UI development using latest web technologies. Highly skilled in wire-framing, designing, and developing creative digital experiences using professional HTML | CSS | JavaScript | Tailwind | Bootstrap | ReactJS | Git | practices and WordPress. 👨‍💻 Turning Visuals into Working Prototypes 👨‍💻
 
 - 🌍  I'm based in Delhi-NCR (India)
 - 🖥️  See my portfolio at [Sabzlearn](http://sabzlearn.ir/)
