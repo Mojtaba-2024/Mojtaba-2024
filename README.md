@@ -50,15 +50,3 @@ architectures: ["design system pattern", "clean", "SOLID"],
 <h3>My Activity</h3>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Mojtaba-2024&show_icons=true&theme=onedark"/>
-
-<p align="center">
-  <a href="https://sabzlearn.ir/">
-    <img src="https://img.shields.io/badge/Website-www.Sabzlearn.ir-blue?style=flat&logo=google-chrome" />
-  </a>
-  <a href="https://instagram.com/rad_front/">
-    <img src="https://img.shields.io/badge/Instagram-@Rad_Front-red?style=flat&logo=instagram" />
-  </a>
-  <a href="https://t.me/aminkhoy78/">
-    <img src="https://img.shields.io/badge/Telegram-@AminKhoy78-blue?style=flat&logo=telegram" />
-  </a>
-</p>
