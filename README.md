@@ -50,3 +50,9 @@ architectures: ["design system pattern", "clean", "SOLID"],
 <h3>My Activity</h3>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Mojtaba-2024&show_icons=true&theme=onedark"/>
+
+
+
+
+
+
