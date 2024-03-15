@@ -14,7 +14,7 @@ Frontend Developer with over 3 Years of professional experience in web designing
 - 🤝  I'm open to collaborating on React based projects
 - ⚡  Professional Developer Ant Coach In Javascript Based Courses
 
-### Skills
+### Skills 🔧
 
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
@@ -26,7 +26,7 @@ Frontend Developer with over 3 Years of professional experience in web designing
     <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/redux-colored.svg" width="36" 
 </p>
 
-### Social
+### Socials 📞
 
 <p align="left">
     <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/instagram.svg" width="32" height="32" /></a>
@@ -40,3 +40,7 @@ Frontend Developer with over 3 Years of professional experience in web designing
 <a href="">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
 </a>
+
+### My Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mojtaba-2024&show_icons=true&theme=radical"/>
