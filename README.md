@@ -43,3 +43,4 @@ Frontend Developer with over 3 Years of professional experience in web designing
 ### My Activity
 
 <img src="https://github-readme-stats.vercel.app/api?username=Mojtaba-2024&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mojtaba-2024&hide_progress=true"/>
