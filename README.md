@@ -10,7 +10,6 @@ Frontend Developer with over 3 Years of professional experience in web designing
 - 🌍  I'm based in Delhi-NCR (India)
 - 🖥️  See my portfolio at [Mojtaba-2024](http://Mojtaba-2024/)
 - ✉️  You can contact me at [mojtabaahmadzadeh.2024@gmail.com](mailto:mojtabaahmadzadeh.2024@gmail.com)
-- 🧠  I'm learning NextJS
 - 🤝  I'm open to collaborating on React based projects
 - ⚡  Professional Developer Ant Coach In Javascript Based Courses
 
