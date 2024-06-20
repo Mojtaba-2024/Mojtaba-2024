@@ -5,7 +5,7 @@ FrontEnd Developer
 
 ---
 
-Frontend Developer with over 3 Years of professional experience in web designing and UI development using latest web technologies. Highly skilled in wire-framing, designing, and developing creative digital experiences using professional HTML | CSS | JavaScript | Tailwind | Bootstrap | Tailwind | ReactJS | Git | Github | practices and WordPress. 👨‍💻 Turning Visuals into Working Prototypes 👨‍💻💪 
+Frontend Developer with over 3 Years of professional experience in web designing and UI development using latest web technologies. Highly skilled in wire-framing, designing, and developing creative digital experiences using professional HTML | CSS | JavaScript | Tailwind | Bootstrap | Tailwind | ReactJS | Git | Github | practices and WordPress. 👨‍💻 Turning Visuals into Working Prototypes 👨‍💻💪
 
 - 🌍  I'm based in Delhi-NCR (India)
 - 🖥️  See my portfolio at [Mojtaba-2024](http://Mojtaba-2024/)
