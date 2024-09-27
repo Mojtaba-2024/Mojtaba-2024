@@ -13,24 +13,18 @@ Frontend Developer with over 3 Years of professional experience in web designing
 - 🤝  I'm open to collaborating on React based projects
 - ⚡  Professional Developer Ant Coach In Javascript Based Courses
 
-### Skills 🔧
+<h3 align="left">Skills 🔧</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=javascript,react,css,html,bootstrap,tailwind,mui,figma,xd,git,github,gitlab,postman,npm,mongodb" alt="aws"/></a></p>
 
-### Socials 📞
+<h3 align="left">Socials 📞</h3>
 
 <p align="left">
-    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/instagram.svg" width="32" height="32" /></a>
-    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/github.svg" width="32" height="32" /></a>
-    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/mojtaba-ahmadzadeh-2a84482b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hossein-falah-5024a4227/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/4693.mojtaba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hossein____falah" height="30" width="40" /></a>
+  <a href="https://t.me/HosseinDeveloper" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="https://t.me/HosseinDeveloper" height="30" width="40" /></a>
 </p>
 
-### Support Me
-
-<a href="">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
-</a>
-
-### My Activity
+<h3 align="left">My Activity</h3>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Mojtaba-2024&show_icons=true&theme=radical"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mojtaba-2024&hide_progress=true"/>
