@@ -14,7 +14,7 @@ Frontend Developer with over 3 Years of professional experience in web designing
 - ⚡  Professional Developer Ant Coach In Javascript Based Courses
 
 <h3 align="left">Skills 🔧</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=javascript,react,css,html,bootstrap,tailwind,mui,figma,xd,git,github,gitlab,postman,npm" alt="aws"/></a></p>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=javascript,react,css,html,bootstrap,tailwind,mui,figma,xd,git,github,gitlab,postman,npm,firebase" alt="aws"/></a></p>
 
 <h3 align="left">Socials 📞</h3>
 
