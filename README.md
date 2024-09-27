@@ -23,8 +23,3 @@ Frontend Developer with over 3 Years of professional experience in web designing
 <a href="https://www.instagram.com/4693.mojtaba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hossein____falah" height="30" width="40" /></a>
   <a href="https://t.me/HosseinDeveloper" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="https://t.me/HosseinDeveloper" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">My Activity</h3>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mojtaba-2024&show_icons=true&theme=radical"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mojtaba-2024&hide_progress=true"/>
