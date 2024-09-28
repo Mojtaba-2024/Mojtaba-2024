@@ -20,6 +20,6 @@ Frontend Developer with over 3 Years of professional experience in web designing
 
 <p align="left">
 <a href="https://www.linkedin.com/in/mojtaba-ahmadzadeh-2a84482b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hossein-falah-5024a4227/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/4693.mojtaba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hossein____falah" height="30" width="40" /></a>
+<a href="https://www.instagram.com/4693.mojtaba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/MojtabaAhmadzadeh2024" height="30" width="40" /></a>
   <a href="https://t.me/MojtabaAhmadzadeh2024" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="https://t.me/HosseinDeveloper" height="30" width="40" /></a>
 </p>
